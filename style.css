@@ -1,0 +1,10 @@
+body{
+    background-color: #000000;
+}
+#navbar-example2{
+    background-color: transparent !important;
+    box-shadow: 0px 0px 10px #ffffff;
+    position: fixed;
+    width: 100%;
+    left: 1250px;
+}
